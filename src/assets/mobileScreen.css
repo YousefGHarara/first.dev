@@ -1,0 +1,23 @@
+@media (max-width: 800px) {
+  .nav-page {
+    background-color: rgb(87, 0, 95);
+  }
+
+  .nav-page a {
+    color: #fff;
+  }
+
+  .home-page h1 {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .nav-page a {
+    
+    font-size: 18px !important;
+    background-color: red;
+  }
+  
+}
